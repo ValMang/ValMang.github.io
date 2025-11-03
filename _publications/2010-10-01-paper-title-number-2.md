@@ -7,3 +7,4 @@ excerpt: 'Valérian Mangé, Jean-Yves Tourneret, François Vincent, Fábio Manzo
 date: 2025-10-30
 citation: 'V. Mangé, J.-Y. Tourneret, F. Vincent, F. Manzoni Vieira, "Procédé d'association de données de trajectoires issues de capteurs", 2025'
 ---
+dqsd
