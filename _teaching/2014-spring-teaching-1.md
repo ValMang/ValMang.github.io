@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 1"
+title: "ENSEEIHT TD/TP Statistics, Data Analysis, Optimisation"
 collection: teaching
-type: "Undergraduate course"
+type: "Engineering school"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "ENSEEIHT"
+date: 2022-10-01
+location: "Toulouse, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Exercise sessions in statistics, data analysis and optimisation at ENSEEIHT for first year students.
 
-Heading 1
+Statistics
 ======
+30 hours of exercise sessions on paper, [course ressources](https://perso.tesa.prd.fr/jyt/Statistics.html)
 
-Heading 2
+Data analysis
 ======
+20 hours of programming sessions, [course ressources](https://perso.tesa.prd.fr/jyt/Classification.html)
 
-Heading 3
+Optimisation
 ======
+5 hours of exercise sessions on paper
