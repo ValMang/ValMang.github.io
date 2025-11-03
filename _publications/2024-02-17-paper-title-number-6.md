@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-6
 excerpt: 'Valérian Mangé, Jean-Yves Tourneret, François Vincent, Laurent Mirambell, Fábio Manzoni Vieira, Barbara Pilastre'
-date: 2024-08-26
+date: 2023-08-28
 venue: 'Colloque GRETSI 2023'
 paperurl: 'https://www.tesa.prd.fr/documents/26/23gretsi_final_v2.pdf'
 citation: 'V. Mangé, J.-Y. Tourneret, F. Vincent, L. Mirambell, F. Manzoni Vieira, B. Pilastre, "Détection de Comportements Anormaux dans des Trajectoires de Navires avec One-Class SVM et Dynamic Time Warping", in Proc. Colloque GRETSI, Grenoble, France, 2023'
