@@ -23,10 +23,10 @@ repository               : "valmang/valmang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "CH5_7045.jpg"
   name             : "Valérian Mangé"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD student"
   location         : "Toulouse"
   employer         : "TéSA"
   uri              : # URL
