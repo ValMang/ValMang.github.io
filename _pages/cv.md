@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my resume in pdf version (here)[link].
+You can find my resume in pdf version [here](link).
 
 Education
 ======
