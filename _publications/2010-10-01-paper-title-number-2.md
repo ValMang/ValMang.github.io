@@ -1,5 +1,5 @@
 ---
-title: "Anomaly Detection in Ship Trajectories Using Machine Learning and Dynamic Time Warping"
+title: "(Pending) Procédé d'association de données de trajectoires issues de capteurs"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
