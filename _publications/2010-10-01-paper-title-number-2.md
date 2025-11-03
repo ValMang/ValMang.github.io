@@ -2,8 +2,8 @@
 title: "(Pending) Procédé d'association de données de trajectoires issues de capteurs"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Valérian Mangé, Jean-Yves Tourneret, François Vincent, Laurent Mirambell, Fábio Manzoni Vieira'
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'Valérian Mangé, Jean-Yves Tourneret, François Vincent, Fábio Manzoni Vieira'
 date: 2025-10-01
 venue: 'Engineering Applications of Artificial Intelligence'
 paperurl: 'https://www.tesa.prd.fr/documents/26/elsarticle-template-num_proof.pdf'
