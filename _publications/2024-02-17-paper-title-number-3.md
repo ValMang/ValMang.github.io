@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-3
 excerpt: 'Valérian Mangé, Yoann Anezin, Jean-Yves Tourneret, François Vincent, Laurent Mirambell, Fábio Manzoni Vieira'
-date: 2024-08-25
+date: 2024-08-26
 venue: 'EUSIPCO 2024'
 paperurl: 'https://www.tesa.prd.fr/documents/26/article_ad_final_v1.pdf'
 citation: 'V. Mangé, Y. Anezin, J.-Y. Tourneret, F. Vincent, L. Mirambell, F. Manzoni Vieira, "Detecting Abnormal Ship Trajectories using Functional Isolation Forests and Dynamic Time Warping", in Proc. EUSIPCO, Lyon, France, 2024'
