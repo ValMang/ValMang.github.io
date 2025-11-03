@@ -16,7 +16,7 @@ Statistics
 
 Data analysis
 ======
-20 hours of programming sessions, [course ressources](https://perso.tesa.prd.fr/jyt/Classification.html)
+20 hours of practical sessions, [course ressources](https://perso.tesa.prd.fr/jyt/Classification.html)
 
 Optimisation
 ======
