@@ -5,8 +5,5 @@ category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Valérian Mangé, Jean-Yves Tourneret, François Vincent, Fábio Manzoni Vieira'
 date: 2025-10-30
-venue: 'Engineering Applications of Artificial Intelligence'
-paperurl: 'https://www.tesa.prd.fr/documents/26/elsarticle-template-num_proof.pdf'
-citation: 'V. Mangé, J.-Y. Tourneret, F. Vincent, F. Manzoni Vieira, "Procédé d'association de données de trajectoires issues de capteurs", 2025'
+citation: 'V. Mangé, J.-Y. Tourneret, F. Vincent, F. Manzoni Vieira, "Proc\'ed\'e d'association de donn\'ees de trajectoires issues de capteurs", 2025'
 ---
-This research paper proposes adaptations of three state-of-the-art anomaly detection algorithms, (One-Class Support Vector Machine, Isolation Forest and Local Outlier Factor), for detecting abnormal behavior in ship trajectories in an unsupervised way. These algorithms are adapted and tested using a wide range of similarity measures built specifically for time series, such as Dynamic Time Warping. The proposed methods are first applied on synthetic Automatic Identification System datasets with available ground truth. Then, they are generalized to handle pairs of Automatic Identification System and radar trajectories to detect unexpected activities, such as route deviations, delays and entering prohibited zones. The performances of the proposed methods are shown to be competitive when compared to the state-of-the-art for abnormal ship behavior detection.
