@@ -18,6 +18,6 @@ Data analysis
 ======
 20 hours of practical sessions, [course resources](https://perso.tesa.prd.fr/jyt/Classification.html)
 
-Optimisation
+Optimization
 ======
 5 hours of exercise sessions on paper
