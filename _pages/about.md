@@ -13,6 +13,7 @@ Interests
 ======
 1. Statistical signal processing
 2. Bayesian methods
-3. Data association
-4. Anomaly detection
-5. Target tracking
+3. Analysis of time series
+4. Heterogeneous data association
+5. Anomaly detection
+6. Target tracking
