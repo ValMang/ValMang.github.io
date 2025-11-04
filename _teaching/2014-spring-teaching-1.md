@@ -1,5 +1,5 @@
 ---
-title: "ENSEEIHT TD/TP Statistics, Data Analysis, Optimisation"
+title: "ENSEEIHT Statistics, Data Analysis, Optimisation"
 collection: teaching
 type: "Engineering school"
 permalink: /teaching/2014-spring-teaching-1
