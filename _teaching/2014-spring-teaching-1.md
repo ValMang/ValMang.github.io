@@ -12,11 +12,11 @@ Exercise sessions in statistics, data analysis and optimisation at ENSEEIHT for 
 
 Statistics
 ======
-30 hours of exercise sessions on paper, [course ressources](https://perso.tesa.prd.fr/jyt/Statistics.html)
+30 hours of exercise sessions on paper, [course resources](https://perso.tesa.prd.fr/jyt/Statistics.html)
 
 Data analysis
 ======
-20 hours of practical sessions, [course ressources](https://perso.tesa.prd.fr/jyt/Classification.html)
+20 hours of practical sessions, [course resources](https://perso.tesa.prd.fr/jyt/Classification.html)
 
 Optimisation
 ======
